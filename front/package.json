@@ -19,7 +19,6 @@
     "react-scripts": "3.4.1",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "typescript": "~3.7.2",
     "typescript-fsa": "^3.0.0",
     "typescript-fsa-reducers": "^1.2.1"
   },
@@ -43,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
   }
 }
